@@ -16,7 +16,7 @@ Hi {}, I'm Forward Tag Remover bot.\n\nForward me some messages, i will remove f
 
 START_BTN = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Source Code', url='https://github.com/samadii/ChannelForwardTagRemover'),
+        InlineKeyboardButton('JOIN CHANNEL', url='https://t.me/joinchat/V7-uRlKdS0AxqntA'),
         ]]
     )
 
